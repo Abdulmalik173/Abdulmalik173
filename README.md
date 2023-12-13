@@ -18,7 +18,7 @@ Like My Work or Project?
 
 <a href="https://www.buymeacoffee.com/abdulmalik173" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/a1/f5/0a/a1f50a2a290bfdb34640a3e8b94f944b.gif" />
+<img align="right" alt="" src="https://i.pinimg.com/originals/a1/f5/0a/a1f50a2a290bfdb34640a3e8b94f944b.gif" />
 
 ### Talking about Personal Stuff:
 
